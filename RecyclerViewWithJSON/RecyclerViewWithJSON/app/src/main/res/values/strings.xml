@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RecyclerViewWithJSON</string>
+    <string name="description">Description</string>
+    <string name="heading">Heading</string>
+</resources>
